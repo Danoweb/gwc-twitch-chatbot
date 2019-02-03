@@ -1,0 +1,25 @@
+{
+  "name": "gwc-twitch-chatbot",
+  "version": "1.0.0",
+  "description": "A chatbot for the Gamers Who Code Meetup Group",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danoweb/gwc-twitch-chatbot.git"
+  },
+  "keywords": [
+    "twitch"
+  ],
+  "author": "Daniel Reed",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Danoweb/gwc-twitch-chatbot/issues"
+  },
+  "homepage": "https://github.com/Danoweb/gwc-twitch-chatbot#readme",
+  "dependencies": {
+    "tmi.js": "^1.2.1"
+  }
+}
